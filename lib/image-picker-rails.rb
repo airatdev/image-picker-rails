@@ -1,5 +1,8 @@
 require "image-picker-rails/version"
 
 module ImagePickerRails
-      # Your code goes here...
+  module Rails
+    class Engine < ::Rails::Engine
+    end
+  end
 end
