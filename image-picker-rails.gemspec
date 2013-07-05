@@ -7,10 +7,10 @@ Gem::Specification.new do |spec|
   spec.name          = "image-picker-rails"
   spec.version       = Image::Picker::Rails::VERSION
   spec.authors       = ["Airat Shigapov"]
-  spec.email         = ["airat.shigapov@flatstack.com"]
-  spec.description   = "Description"
-  spec.summary       = "Summary"
-  spec.homepage      = ""
+  spec.email         = ["airat@shigapov.me"]
+  spec.description   = "Image Picker is a simple jQuery plugin that transforms a select element into a more user friendly graphical interface."
+  spec.summary       = spec.description
+  spec.homepage      = "https://github.com/airatshigapov/image-picker-rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
