@@ -1,6 +1,8 @@
-# Image::Picker::Rails
+# Image Picker for Rails
 
-TODO: Write a gem description
+Image Picker is a simple jQuery plugin that transforms a select element into a more user friendly graphical interface.
+
+https://github.com/rvera/image-picker originally authored by [Rodrigo Vera](http://rvera.github.io/)
 
 ## Installation
 
@@ -18,7 +20,17 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Add this line to app/assets/stylesheets/application.css
+
+``` css
+ *= require image-picker
+```
+
+Add this line to app/assets/javascripts/application.js
+
+``` javascript
+//= require image-picker
+```
 
 ## Contributing
 
