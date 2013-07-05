@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Image::Picker::Rails::VERSION
   spec.authors       = ["Airat Shigapov"]
   spec.email         = ["airat.shigapov@flatstack.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = "Description"
+  spec.summary       = "Summary"
   spec.homepage      = ""
   spec.license       = "MIT"
 
