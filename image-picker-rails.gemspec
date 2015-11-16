@@ -5,7 +5,7 @@ require 'image-picker-rails/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "image-picker-rails"
-  spec.version       = Image::Picker::Rails::VERSION
+  spec.version       = ImagePickerRails::VERSION
   spec.authors       = ["Airat Shigapov"]
   spec.email         = ["airat@shigapov.me"]
   spec.description   = "Image Picker is a simple jQuery plugin that transforms a select element into a more user friendly graphical interface."
